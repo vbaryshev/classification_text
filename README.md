@@ -1,2 +1,2 @@
-# classifitation_text
+# classification_text
 Классификация текстовых данных
